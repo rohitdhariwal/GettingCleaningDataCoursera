@@ -1,5 +1,5 @@
 # Code Book for Getting and Cleaning Data Project
-This file describes various fields in the tidy dataset file, TidyDataset.csv.  
+This file describes various fields in the tidy dataset file, TidyDataset.txt.  
 The description of various steps performed to obtain the tidy dataset in the run_analysis.R file are described in README.md file.  
 ## Variables description
 * subject -  ID of the test subject; ranges from 1 to 30
