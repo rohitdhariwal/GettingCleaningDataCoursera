@@ -8,6 +8,6 @@ The purpose of this project is to demonstrate the ability to collect, work with,
 * The training and test datasets are merged into one data set, keeping only the measurements on mean and standard deviation
 * Activity info is loaded to give appropriate labels to the activities in data set
 * Finally, a tidy data set is created with the average of each variable for each activity and each subject
-* The tidy data set obtained is written to a file named "TidyDataset.csv"  
+* The tidy data set obtained is written to a file named "TidyDataset.txt"  
 
-Another file, CodeBook.md describes the various variables and transformations performed to obtain cleaned data in TidyDataset.csv.
+Another file, CodeBook.md describes the various variables and transformations performed to obtain cleaned data in TidyDataset.txt
