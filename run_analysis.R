@@ -14,7 +14,7 @@
 
 
 # Set the working directory to where you want to run this code
-setwd("~/Dropbox/DnsCode/Coursera/DataScienceSpecialization/C3_GettingCleaningData/Project/")
+setwd("~/DataScienceSpecialization/GettingCleaningData/Project/")
 # 
 # Get the data required for this project
 url <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
